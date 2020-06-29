@@ -1,0 +1,17 @@
+canonicalName = "Sumer is icumen in"
+
+[[transcriptions]]
+url = "https://www.bl.uk/collection-items/sumer-is-icumen-in"
+publicationPlace = "Oxford (England)"
+publicationYear = "abt. 1260"
+catalogRef = "British Library: Harley MS 978"
+
+[[recordings]]
+url = "https://archive.org/details/78_sumer-is-icumen-in_the-english-singers-john-of-fornsete_gbia0017694b"
+artists = ["The English Singers"]
+recordingPlace = "East Aurora, New York (United States)"
+sessionType = "commercial"
+releaseUrl = "https://www.earlymusicamerica.org/web-articles/english-singers-early-recordings-live-again/"
+releaseYear = "1928"
+releaseLabel = "Roycroft"
+catalogNums = ["matrix: 3443", "Roycroft: 159"]

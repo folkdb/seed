@@ -6,12 +6,41 @@ publicationPlace = "Oxford (England)"
 publicationYear = "abt. 1260"
 catalogRef = "British Library: Harley MS 978"
 
+[[arrangements]]
+format = "vextab"
+instruments = "4-string fretted"
+tonic = "D"
+mode = "ion"
+content = """
+  options stave-distance=20
+
+  tabstave
+    notation=true key=D time=6/8
+    strings=4 tuning=A/4,D/4,A/3,D/3
+  voice
+    notes :q 5/1 :8 p4/1 :q 2/1 :8 4/1 $Sum-,mer,is,a$ |
+    notes :q 5/1 :8 5/1 $com-,ing$ 4p2p0/1 ^3^ $in, , $ 
+  voice
+    notes :hd (0/2.0/3) | :hd (0/2.0/3)
+
+  tabstave
+    notation=true key=D
+    strings=4 tuning=A/4,D/4,A/3,D/3
+  voice
+    notes :q 4/2 :8 4/2 :q 5/2 :8 2/2 $Loud-,ly,sing,cuc-$ |
+    notes :h 4/2 :q ## $koo, $
+  voice
+    notes :hd (0/3.0/4) | :hd (0/3.0/4)
+
+"""
+
 [[recordings]]
 url = "https://archive.org/details/78_sumer-is-icumen-in_the-english-singers-john-of-fornsete_gbia0017694b"
 artists = ["The English Singers"]
 recordingPlace = "East Aurora, New York (United States)"
 sessionType = "commercial"
+matrixNum = "3443"
 releaseUrl = "https://www.earlymusicamerica.org/web-articles/english-singers-early-recordings-live-again/"
 releaseYear = "1928"
 releaseLabel = "Roycroft"
-catalogNums = ["matrix: 3443", "Roycroft: 159"]
+catalogNum = "159"

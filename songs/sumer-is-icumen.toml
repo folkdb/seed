@@ -1,14 +1,56 @@
+# Song
 canonicalName = "Sumer is icumen in"
 
 [[transcriptions]]
 url = "https://www.bl.uk/collection-items/sumer-is-icumen-in"
-publicationPlace = "Oxford (England)"
-publicationYear = "abt. 1260"
-catalogRef = "British Library: Harley MS 978"
+[transcriptions.publication]
+  place = "Oxford (England)"
+  year = "abt. 1260"
+  catalogRef = "British Library: Harley MS 978"
+
+[[transcriptions]]
+pageNumber = "26"
+[transcriptions.publication]
+  url = "https://archive.org/details/popularmusicofol01chapuoft"
+  title = "Popular music of the olden time: a collection of ancient songs, ballads, and dance tunes illustrative of the national music of England"
+  credits = [
+    "AUTHOR: W. Chappell",
+    "ARRANGER (harmonies): G. A. MacFarren",
+  ]
+  publisher = "Cramer, Beale, and Chappell"
+  place = "London (England)"
+  year = "1859"
+  vol = "1"
+
+[[recordings]]
+url = "https://archive.org/details/78_sumer-is-icumen-in_the-english-singers-john-of-fornsete_gbia0017694b"
+artists = ["The English Singers"]
+place = "East Aurora, New York (United States)"
+sessionType = "commercial"
+matrixNum = "3443"
+[recordings.release]
+  url = "https://www.earlymusicamerica.org/web-articles/english-singers-early-recordings-live-again/"
+  year = "1928"
+  label = "Roycroft"
+  catalogNum = "159"
+
+[[recordings]]
+url = "https://folkways.si.edu/elizabeth-mitchell/summer-is-icumen-in/american-folk-childrens/music/track/smithsonian"
+title = "Summer is icumen in"
+artists = ["Elizabeth Mitchell"]
+sessionType = "commercial"
+[recordings.release]
+  title = "Blue Clouds"
+  year = "2012"
+  label = "Smithsonian Folkways"
+[recordings.streaming]
+  tidal = "45843022"
+  spotify = "6pzMPx471rOF29UozzVuJZ"
+  youtube = "xzcSsoeQXP8"
 
 [[arrangements]]
 format = "vextab"
-instruments = "4-string fretted"
+instruments = "4-string (DADA)"
 tonic = "D"
 mode = "ion"
 content = """
@@ -21,26 +63,105 @@ content = """
     notes :q 5/1 :8 p4/1 :q 2/1 :8 4/1 $Sum-,mer,is,a$ |
     notes :q 5/1 :8 5/1 $com-,ing$ 4p2p0/1 ^3^ $in, , $ 
   voice
-    notes :hd (0/2.0/3) | :hd (0/2.0/3)
+    notes :hd (0/3.0/2) | :hd (0/3.0/2)
 
   tabstave
     notation=true key=D
     strings=4 tuning=A/4,D/4,A/3,D/3
   voice
-    notes :q 4/2 :8 4/2 :q 5/2 :8 2/2 $Loud-,ly,sing,cuc-$ |
+    notes :q 4/2 :8 4/2 :q 5/2 :8 2/2 $Loud-,ly,sing,Cuc-$ |
     notes :h 4/2 :q ## $koo, $
   voice
-    notes :hd (0/3.0/4) | :hd (0/3.0/4)
+    notes :hd (0/4.0/3) | :hd (0/4.0/3)
+    
+  tabstave
+    notation=true key=D
+    strings=4 tuning=A/4,D/4,A/3,D/3
+  voice
+    notes :q 4/2 :8 0/2 :q 2/2 :8 5/2 $Grow-,eth,seed,and$ |
+    notes :q 4/2 :8 4/2 :q 2/2 :8 0/2 $blow-,eth,mead,and$
+  voice
+    notes :hd 0/3 | :hd 0/3
+    
+  tabstave
+    notation=true key=D
+    strings=4 tuning=A/4,D/4,A/3,D/3
+  voice
+    notes :q 4/2 :8 0/1 :q 2/1 :8 2/1 $spring,the,wood,a-$ |
+    notes :hd 0/1 $new$
+  voice
+    notes :hd 0/3 | :hd (0/3.0/2)
+    
+  tabstave
+    notation=true key=D
+    strings=4 tuning=A/4,D/4,A/3,D/3
+  voice
+    notes :qd 5-2/1 $Sing,Cuc-$ | :hd 5/1 $koo!$
+  voice
+    notes :hd (0/3.0/2) | :hd (0/3.0/2)
+    
+  tabstave
+    notation=true key=D
+    strings=4 tuning=A/4,D/4,A/3,D/3
+  voice
+    notes :q 7/2 :8 p4/2 :q 5/2 :8 2/2 $Ew-,e,bleat-,eth$ |
+    notes :q 4/2 :8 7/2 :q 5/2 :8 4/2 $af-ter,lamb,and$
+  voice
+    notes :hd 0/3 | :hd 0/3
+
+  tabstave
+    notation=true key=D
+    strings=4 tuning=A/4,D/4,A/3,D/3
+  voice
+    notes :q 0/2 :8 4/2 :q 2/2 :8 4/3 $af-,ter,calf,the$ |
+    notes :hd 0/2 $cow$
+  voice
+    notes :hd 0/3 | :hd (0/4.0/3)
+    
+  tabstave
+    notation=true key=D
+    strings=4 tuning=A/4,D/4,A/3,D/3
+  voice
+    notes :q 4/2 :8 4/2 :q 5/2 :8 2/2 $Bull-,ock,stert-,eth$ |
+    notes :q 0/1 :8 0/1 :q 2/1 :8 4/1 $Buck-,e,vert-,eth$
+  voice
+    notes :hd 0/3 | :hd (0/3.0/2)
+    
+  tabstave
+    notation=true key=D
+    strings=4 tuning=A/4,D/4,A/3,D/3
+  voice
+    notes :q 5/1 :8 4/1 :q 2/1 :8 4/1 $Mer-,ry,sing,Cuc-$ |
+    notes :hd 5/1 $koo!$
+  voice
+    notes :hd (0/3.0/2) | :hd (0/3.0/2)
+    
+  tabstave
+    notation=true key=D
+    strings=4 tuning=A/4,D/4,A/3,D/3
+  voice
+    notes :qd 0-2/1 $Cuc-,koo-$ |
+    notes :qd 7/2 :q 5/2 :8 p4/2 $koo!, , $
+  voice
+    notes :hd (0/3.0/2) | :hd (0/4.0/3)
+    
+  tabstave
+    notation=true key=D
+    strings=4 tuning=A/4,D/4,A/3,D/3
+  voice
+    notes :q 0/2 :8 4/2 :q 5/2 :8 2/2 $Well,sing'st,thou,cuc-$ |
+    notes :qd 4/2 :q h5/2 :8 7/2 $koo!, ,Nor$
+  voice
+    notes :hd 0/3 | :hd (0/4.0/3)
+    
+  tabstave
+    notation=true key=D
+    strings=4 tuning=A/4,D/4,A/3,D/3
+  voice
+    notes :q 4/2 :8 7/2 :q 2/2 :8 4/3 $cease,thou,e-,ver$ |
+    notes :hd 0/2 $now.$
+  voice
+    notes :hd 0/3 | :hd (0/4.0/3)
 
 """
-
-[[recordings]]
-url = "https://archive.org/details/78_sumer-is-icumen-in_the-english-singers-john-of-fornsete_gbia0017694b"
-artists = ["The English Singers"]
-recordingPlace = "East Aurora, New York (United States)"
-sessionType = "commercial"
-matrixNum = "3443"
-releaseUrl = "https://www.earlymusicamerica.org/web-articles/english-singers-early-recordings-live-again/"
-releaseYear = "1928"
-releaseLabel = "Roycroft"
-catalogNum = "159"
+source = "MELODY: Chappell (1859), LYRICS: Mitchell (2012)"

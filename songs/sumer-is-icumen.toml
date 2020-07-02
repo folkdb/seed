@@ -5,7 +5,8 @@ canonicalName = "Sumer is icumen in"
 url = "https://www.bl.uk/collection-items/sumer-is-icumen-in"
 [transcriptions.publication]
   title = "Collection of poems including fables and musical, calendrical, and medical texts"
-  place = "Oxford (England)"
+  place = "Oxford"
+  country = "England"
   year = "abt. 1260"
   catalogRef = "British Library: Harley MS 978"
 
@@ -18,7 +19,8 @@ pageNumber = "26"
     "ARRANGER (harmonies): G. A. MacFarren",
   ]
   publisher = "Cramer, Beale, and Chappell"
-  place = "London (England)"
+  place = "London"
+  country = "England"
   year = "1859"
   vol = "1"
   url = "https://archive.org/details/popularmusicofol01chapuoft"
@@ -26,11 +28,13 @@ pageNumber = "26"
 [[recordings]]
 artists = ["The English Singers"]
 sessionType = "COMMERCIAL"
-place = "East Aurora, New York (United States)"
+place = "East Aurora, NY"
+country = "US"
 matrixNum = "3443"
 [recordings.release]
   year = "1928"
   label = "Roycroft"
+  country = "US"
   catalogNum = "159"
   url = "https://www.earlymusicamerica.org/web-articles/english-singers-early-recordings-live-again/"
 [recordings.streaming]
@@ -42,13 +46,15 @@ sessionType = "COMMERCIAL"
 [recordings.release]
   title = "Tavern Songs, Vol. 2"
   year = "1961"
-  label = "Vanguard (US)"
+  label = "Vanguard"
+  country = "US"
   catalogNum = "BG 602"
   discogsId = "7858462"
 [recordings.compilation]
   title = "The Art of Alfred Deller"
   year = "1977"
-  label = "Vanguard (US)"
+  label = "Vanguard"
+  country = "US"
   discogsId = "9488266"
 [recordings.streaming]
   spotifyId = "2hJYCwhUqTC4IC7GC5CtTj"
@@ -63,7 +69,8 @@ url = "https://folkways.si.edu/elizabeth-mitchell/summer-is-icumen-in/american-f
 [recordings.release]
   title = "Blue Clouds"
   year = "2012"
-  label = "Smithsonian Folkways (US)"
+  label = "Smithsonian Folkways"
+  country = "US"
 [recordings.streaming]
   spotifyId = "6pzMPx471rOF29UozzVuJZ"
   tidalId = "45843022"

@@ -4,6 +4,7 @@ canonicalName = "Sumer is icumen in"
 [[transcriptions]]
 url = "https://www.bl.uk/collection-items/sumer-is-icumen-in"
 [transcriptions.publication]
+  title = "Collection of poems including fables and musical, calendrical, and medical texts"
   place = "Oxford (England)"
   year = "abt. 1260"
   catalogRef = "British Library: Harley MS 978"
@@ -11,7 +12,6 @@ url = "https://www.bl.uk/collection-items/sumer-is-icumen-in"
 [[transcriptions]]
 pageNumber = "26"
 [transcriptions.publication]
-  url = "https://archive.org/details/popularmusicofol01chapuoft"
   title = "Popular music of the olden time: a collection of ancient songs, ballads, and dance tunes illustrative of the national music of England"
   credits = [
     "AUTHOR: W. Chappell",
@@ -21,32 +21,64 @@ pageNumber = "26"
   place = "London (England)"
   year = "1859"
   vol = "1"
+  url = "https://archive.org/details/popularmusicofol01chapuoft"
 
 [[recordings]]
-url = "https://archive.org/details/78_sumer-is-icumen-in_the-english-singers-john-of-fornsete_gbia0017694b"
 artists = ["The English Singers"]
+sessionType = "COMMERCIAL"
 place = "East Aurora, New York (United States)"
-sessionType = "commercial"
 matrixNum = "3443"
 [recordings.release]
-  url = "https://www.earlymusicamerica.org/web-articles/english-singers-early-recordings-live-again/"
   year = "1928"
   label = "Roycroft"
   catalogNum = "159"
+  url = "https://www.earlymusicamerica.org/web-articles/english-singers-early-recordings-live-again/"
+[recordings.streaming]
+  archiveId = "78_sumer-is-icumen-in_the-english-singers-john-of-fornsete_gbia0017694b"
 
 [[recordings]]
-url = "https://folkways.si.edu/elizabeth-mitchell/summer-is-icumen-in/american-folk-childrens/music/track/smithsonian"
+artists = ["Alfred Deller", "The Deller Consort"]
+sessionType = "COMMERCIAL"
+[recordings.release]
+  title = "Tavern Songs, Vol. 2"
+  year = "1961"
+  label = "Vanguard (US)"
+  catalogNum = "BG 602"
+  discogsId = "7858462"
+[recordings.compilation]
+  title = "The Art of Alfred Deller"
+  year = "1977"
+  label = "Vanguard (US)"
+  discogsId = "9488266"
+[recordings.streaming]
+  spotifyId = "2hJYCwhUqTC4IC7GC5CtTj"
+  tidalId = "116579367"
+  youtubeId = "O2--oWaO_xE"
+
+[[recordings]]
 title = "Summer is icumen in"
 artists = ["Elizabeth Mitchell"]
-sessionType = "commercial"
+sessionType = "COMMERCIAL"
+url = "https://folkways.si.edu/elizabeth-mitchell/summer-is-icumen-in/american-folk-childrens/music/track/smithsonian"
 [recordings.release]
   title = "Blue Clouds"
   year = "2012"
-  label = "Smithsonian Folkways"
+  label = "Smithsonian Folkways (US)"
 [recordings.streaming]
-  tidal = "45843022"
-  spotify = "6pzMPx471rOF29UozzVuJZ"
-  youtube = "xzcSsoeQXP8"
+  spotifyId = "6pzMPx471rOF29UozzVuJZ"
+  tidalId = "45843022"
+  youtubeId = "xzcSsoeQXP8"
+
+[[recordings]]
+artists = ["Ocarine Gaggle"]
+sessionType = "COMMERCIAL"
+[recordings.release]
+  title = "Ocarine in concerto"
+  year = "2015"
+[recordings.streaming]
+  spotifyId = "0NAIVXzG6P0rxGwYxhedpD"
+  tidalId = "47372416"
+  youtubeId = "mCR9fPUGkSw"
 
 [[arrangements]]
 format = "vextab"
@@ -164,4 +196,4 @@ content = """
     notes :hd 0/3 | :hd (0/4.0/3)
 
 """
-source = "MELODY: Chappell (1859), LYRICS: Mitchell (2012)"
+source = "MELODY/LYRICS: Chappell (1859), LYRICS: Mitchell (2012)"

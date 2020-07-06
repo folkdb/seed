@@ -36,6 +36,7 @@ matrixNum = "3443"
   year = "1928"
   label = "Roycroft"
   country = "US"
+  isSingle = true
   catalogNum = "159"
   url = "https://www.earlymusicamerica.org/web-articles/english-singers-early-recordings-live-again/"
 [recordings.streaming]
@@ -81,7 +82,7 @@ url = "https://folkways.si.edu/elizabeth-mitchell/summer-is-icumen-in/american-f
 artists = ["Ocarine Gaggle"]
 sessionType = "COMMERCIAL"
 [recordings.release]
-  title = "Ocarine in concerto"
+  title = "Ocarine in Concerto"
   year = "2015"
 [recordings.streaming]
   spotifyId = "0NAIVXzG6P0rxGwYxhedpD"

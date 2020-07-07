@@ -67,12 +67,12 @@ sessionType = "COMMERCIAL"
 title = "Summer is icumen in"
 artists = ["Elizabeth Mitchell"]
 sessionType = "COMMERCIAL"
-url = "https://folkways.si.edu/elizabeth-mitchell/summer-is-icumen-in/american-folk-childrens/music/track/smithsonian"
 [recordings.release]
   title = "Blue Clouds"
   year = "2012"
   label = "Smithsonian Folkways"
   country = "US"
+  url = "https://folkways.si.edu/elizabeth-mitchell/summer-is-icumen-in/american-folk-childrens/music/track/smithsonian"
 [recordings.streaming]
   spotifyId = "6pzMPx471rOF29UozzVuJZ"
   tidalId = "45843022"

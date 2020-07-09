@@ -96,7 +96,7 @@ instruments = "4-string (DADA)"
 tonic = "D"
 mode = "ion"
 content = """
-  options stave-distance=20
+  options stave-distance=25
   
   tabstave
     notation=true key=D time=6/8
@@ -107,7 +107,7 @@ content = """
   voice
     notes :hd (0/4.0/3.0/2) | :hd ##
 
-  options space=10
+  options space=15
   tabstave
     notation=true key=D
     strings=4 tuning=A/4,D/4,A/3,D/3
@@ -117,7 +117,7 @@ content = """
   voice
     notes :hd (0/3) | :hd (0/4.0/3)
   
-  options space=10
+  options space=15
   tabstave
     notation=true key=D
     strings=4 tuning=A/4,D/4,A/3,D/3
@@ -125,7 +125,7 @@ content = """
     notes :q 0/2 :8 4/2 :q 2/2 :8 5/2 $Grow-,eth,seed,and$ |
     notes :q 4/2 :8 4/2 :q 2/2 :8 0/2 $blow-,eth,mead,and$
   
-  options space=10
+  options space=15
   tabstave
     notation=true key=D
     strings=4 tuning=A/4,D/4,A/3,D/3
@@ -135,7 +135,7 @@ content = """
   voice
     notes :hd 0/3 | :hd (0/4.0/3.0/2)
   
-  options space=10
+  options space=15
   tabstave
     notation=true key=D
     strings=4 tuning=A/4,D/4,A/3,D/3
@@ -144,7 +144,7 @@ content = """
   voice
     notes :hd (0/3.0/2) | :hd (0/2)
   
-  options space=10
+  options space=15
   tabstave
     notation=true key=D
     strings=4 tuning=A/4,D/4,A/3,D/3
@@ -152,7 +152,7 @@ content = """
     notes :q 0/1 :8 4/2 :q 5/2 :8 2/2 $Ew-,e,bleat-,eth$ |
     notes :q 4/2 :8 0/1 :q 5/2 :8 4/2 $af-,ter,lamb,and$
 
-  options space=10
+  options space=15
   tabstave
     notation=true key=D
     strings=4 tuning=A/4,D/4,A/3,D/3
@@ -162,7 +162,7 @@ content = """
   voice
     notes :hd 0/3 | :hd (0/3)
     
-  options space=10
+  options space=15
   tabstave
     notation=true key=D
     strings=4 tuning=A/4,D/4,A/3,D/3
@@ -170,7 +170,7 @@ content = """
     notes :q 4/2 :8 4/2 :q 5/2 :8 2/2 $Bull-,ock,stert-,eth$ |
     notes :q 0/1 :8 0/1 :q 2/1 :8 4/1 $Buck-,e,vert-,eth$
     
-  options space=10
+  options space=15
   tabstave
     notation=true key=D
     strings=4 tuning=A/4,D/4,A/3,D/3
@@ -180,7 +180,7 @@ content = """
   voice
     notes :hd (0/3.0/2) | :hd (0/2)
     
-  options space=10
+  options space=15
   tabstave
     notation=true key=D
     strings=4 tuning=A/4,D/4,A/3,D/3
@@ -190,7 +190,7 @@ content = """
   voice
     notes :hd (0/3.0/2) | :hd (0/2)
     
-  options space=10
+  options space=15
   tabstave
     notation=true key=D
     strings=4 tuning=A/4,D/4,A/3,D/3
@@ -200,7 +200,7 @@ content = """
   voice
     notes :hd 0/3 | :hd (0/4.0/3)
   
-  options space=10
+  options space=15
   tabstave
     notation=true key=D
     strings=4 tuning=A/4,D/4,A/3,D/3

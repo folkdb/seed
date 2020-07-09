@@ -96,8 +96,6 @@ instruments = "4-string (DADA)"
 tonic = "D"
 mode = "ion"
 content = """
-  options stave-distance=20
-
   tabstave
     notation=true key=D time=6/8
     strings=4 tuning=A/4,D/4,A/3,D/3

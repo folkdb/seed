@@ -94,7 +94,7 @@ sessionType = "COMMERCIAL"
 format = "vextab"
 instruments = "4-string (DADA)"
 tonic = "D"
-mode = "ion"
+mode = "Major (Ionian)"
 content = """
   options stave-distance=25 font-size=11
   

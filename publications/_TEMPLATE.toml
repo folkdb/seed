@@ -1,0 +1,16 @@
+# Publication
+
+displayAuthor = ""
+year = ""
+title = ""
+credits = []
+publisher = ""
+place = ""
+country = ""
+url = ""
+
+# INCLUDE WHERE NEEDED:
+# edition = ""
+# vol = ""
+# issue = ""
+# catalogRef = ""

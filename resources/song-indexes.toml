@@ -10,6 +10,11 @@ description = "This Wikipedia page is a crowd-sourced list of songs included in 
 url = "https://en.wikipedia.org/wiki/List_of_folk_songs_by_Roud_number"
 
 [[entries]]
+title = "List of the Child Ballads"
+description = "This Wikipedia page is a listing with concise summaries of the 305 English and Scottish ballads catalogued by Francis James Child in the latter part of the 19th century. Links are provided to individual Wikipedia entries for many of the ballads."
+url = "https://en.wikipedia.org/wiki/List_of_the_Child_Ballads"
+
+[[entries]]
 title = "The Traditional Ballad Index: An Annotated Bibliography of the Folk Songs of the English-Speaking World"
 description = "Large index of traditional ballads and folk songs. Entries are organized by song title with cross-references for alternate titles,  variations, and contrafacta. Links are provided to corresponding entries in the Roud Folk Song Index. Print sources and known recordings are listed in abbreviated form, with catalog numbers for recordings. Full citations can be looked up in separate bibliography and discography indexes. Many entries include annotations providing thematic analysis and context for how themes and persons may be linked to historical events. The site is entirely static HTML, which makes it easy to navigate or search by keyword. The full database may also be downloaded as a zipped text file."
 author = "Robert B. Waltz and David G. Engle"
@@ -23,10 +28,5 @@ author = "Jane Keefer"
 url = "http://www.ibiblio.org/folkindex/index.htm"
 lastUpdated = "2013"
 
-[[entries]]
-title = "The Traditional Tune Archive"
-description = "Large searchable index and repository growing out of a dedicated amateur's decades-long project to classify and trace the genealogy of fiddle tunes recorded/collected in the British Isles and North America.  The current version is maintained as a Wiki, allowing for collaborative editing, powerful search capabilities, and a familiar interface. This is a one-of-a-kind resource for airs and dance tunes (as contrasted with lyric songs and ballads, which have been systematically catalogued elsewhere). Entries include classification of meter, tonality, and structure, citations of print sources and recordings, alternate titles, geographic distribution, and music transcriptions rendered from ABC notation."
-author = "Andrew Kuntz"
-url = "https://tunearch.org/wiki/TTA"
 
-[[entries]]
+

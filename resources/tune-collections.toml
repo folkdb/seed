@@ -11,6 +11,24 @@ author = "John Lamancusa"
 url = "https://www.mne.psu.edu/lamancusa/tunes.html"
 
 [[entries]]
+title = "Tater Joe's Old-Time Musical Mercantile"
+description = "Transcriptions of 675+ fiddle tunes, clawhammer banjo tabs for over 600 tunes, and backup guitar chords for many of the tunes. MIDI files of the melody line also available for many of the tunes. Tunes are organized by the key in which the tune is intended to be played and listed alphabetically. Clean, modern website with fast-loading resources."
+author = "Ken Torke"
+url = "http://taterjoes.com/"
+
+[[entries]]
+title = "Pete Showman's Tunes Page"
+description = "A nicely curated selection of old-time tunes, mostly American (or as they are known here). Many are simpler arrangements ideal for learning. MIDI files and some recordings are available. Fast static HTML website."
+author = "Pete Showman"
+url = "http://www.showman.org/tunes/"
+
+[[entries]]
+title = "Session Tunebooks"
+description = "Repository of session tune collections published on other sites, with a focus on Irish and Scottish tunes. Includes some digital files that have been circulating on the web since the 90s, some more recent compilations, and some scans of out-of-print books as well. Links to sites with ABC notation where available."
+author = "Pete Braccio"
+url = "http://www.braccio.me/session.html"
+
+[[entries]]
 title = "North Atlantic Tune List"
 description = "As described: \"This site is a somewhat random reference source for mostly traditional dance and fiddle tunes from several regions around the North Atlantic: Scandinavia, the British Isles, Quebec, Cape Breton, Métis (Saskatchewan & Manitoba), New England, Appalachia, and more. It is intended as a resource for musicians wanting to learn a tune or remember how particular tunes are played.\" ABC notation is provided for many of the tunes, along with low-resolution images of the sheet music. Tune entries include streaming audio and embedded YouTube videos featuring both amateur and professional performers, including some simplified and slowed-down versions for learning purposes."
 url = "https://www.natunelist.net/"
@@ -26,6 +44,3 @@ title = "Tune Collections on the Internet"
 description = "An index of sites with freely available music notation for dance tunes and folk instrumentals from various regions of Europe, North American, and Australia. Identifies which sites have sheet music in image/PDF formats and which have ABC notation. A few of the links may be outdated, but the site is actively maintained as of 2020. This is a great resource for finding obscure or unfamiliar folk material on sites you wouldn't otherwise come across."
 author = "Mickey Koth"
 url = "https://www.biteyourownelbow.com/webtunes.htm"
-
-
-
